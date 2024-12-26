@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Mufasa58
+- 👀 I’m interested in computational optimization in architectural planing
+- 🌱 I’m currently learning Grasshopper / C# / Python
+- 💞️ I’m looking to collaborate on plug-ins for BIM software to sell
+- 📫 How to reach me contact@mustafaguenaytekin.com
